@@ -6,7 +6,7 @@ Make sure you have already installed:
 ```
 1. Python 3.6+
 ```
-### Dataset used is from UCI Datasets
+### Dataset used are from UCI Datasets
 * [Exasens Dataset](https://archive.ics.uci.edu/ml/datasets/Exasens)
 * [Dishonest Internet Users Dataset](https://archive.ics.uci.edu/ml/datasets/Dishonest+Internet+users+Dataset)
 * [AAAI 2013 Accepted Papers Dataset](https://archive.ics.uci.edu/ml/datasets/AAAI+2013+Accepted+Papers)
